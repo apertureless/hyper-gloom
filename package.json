@@ -1,13 +1,13 @@
 {
-  "name": "hyper-snazzy",
-  "version": "1.2.0",
-  "description": "Elegant Hyper theme with bright colors",
+  "name": "hyper-gloom",
+  "version": "1.0.2",
+  "description": "Elegant Hyper theme with pastell colors",
   "license": "MIT",
-  "repository": "sindresorhus/hyper-snazzy",
+  "repository": "apertureless/hyper-gloom",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Jakub Juszczak",
+    "email": "jakub@posteo.de",
+    "url": "jakubjuszczak.de"
   },
   "files": [
     "index.js"
@@ -19,6 +19,7 @@
     "term",
     "theme",
     "hyperterm",
-    "elegant"
+    "elegant",
+    "gloom"
   ]
 }
